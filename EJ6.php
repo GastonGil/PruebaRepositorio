@@ -37,5 +37,3 @@ if(($dia >= 21 && $mes == 3) || ($dia <= 20 && $mes == 4)){
 }else if (($dia >= 20 && $mes == 2) || ($dia <= 20 && $mes == 3)){
   echo "$dia-$mes : Piscis";
 }
-
-
